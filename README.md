@@ -1,8 +1,6 @@
-# Metadata Quality Measuring Kit
+## Measuring quality of data in collection 151
 
-## Description
+### Description
 
-## Instalation
-
-## Licence
+### Licence
 MIT
