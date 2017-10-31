@@ -1,4 +1,4 @@
-## Measuring quality of data in collection 151
+## Measuring quality of data in the photo collection (151)
 
 ### Description
 
