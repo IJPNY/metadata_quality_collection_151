@@ -1,6 +1,7 @@
-## Measuring quality of data in the photo collection (151)
+# Metadata Quality Measuring Kit
 
-### Description
+## Description
+Jupyter notebooks with scripts that identify problems in Intitute's photo collection number 151 metadata (data_cleanup) and analyze it's quality (metadata_scores)
 
-### Licence
-MIT
+## Licence
+[MIT](https://opensource.org/licenses/MIT)
